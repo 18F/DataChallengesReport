@@ -1,4 +1,4 @@
-## ![image alt text](image_0.png) 
+## ![image alt text](image_0.png =100x100) 
 
 ## Data challenges across government
 
