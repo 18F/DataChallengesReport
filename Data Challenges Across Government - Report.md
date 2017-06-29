@@ -4,7 +4,7 @@
 
 ### In spring of 2016, 18F interviewed 31 agency leaders and data professionals across 20 different agencies, and asked them what their biggest pain points were concerning using data to further their agency’s mission. Despite the wide breadth of uses data serves across those agencies, we found astounding agreement in what the biggest challenge is: **18 of the 20 agencies we spoke with cited data sharing as a primary barrier to using data to further their mission**. Specific reasons for data sharing pain is policy or culture (11 agencies), the technical mechanics of sharing data (8 agencies), and data discovery (6 agencies). Other common pain points we found include data integrity (9 agencies), lack of staff or specific skills (8 agencies), and IT policy (5 agencies).
 
-*18F would like to thank participants for their thoughts and time. For questions, concerns, or further discussion, please reach out to **[anthony.garvan@gsa.gov](mailto:anthony.garvan@gsa.gov)**
+18F would like to thank participants for their thoughts and time. For questions, concerns, or further discussion, please reach out to **[anthony.garvan@gsa.gov](mailto:anthony.garvan@gsa.gov)**.
 
 ## Method
 
@@ -44,8 +44,7 @@ We spoke with:
 - Federal Emergency Management Agency
 - General Services Administration
 - Internal Revenue Service
-
-Millennium Corporate Challenge
+- Millennium Corporate Challenge
 - U.S. Agency for International Development
 - U.S. Air Force
 - U.S. Department of Agriculture
