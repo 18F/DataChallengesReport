@@ -8,7 +8,7 @@
 
 ## Method
 
-We heard from **31** individuals in **22** separate interviews with **20 **different agencies. Most interviews were 45 minutes, a handful were 30 minutes, and one response was sent via email.
+We heard from **31** individuals in **22** separate interviews with **20** different agencies. Most interviews were 45 minutes, a handful were 30 minutes, and one response was sent via email.
 
 We asked our interviewees the questions below, in this order, and  focused on digging into the first two questions. 
 
