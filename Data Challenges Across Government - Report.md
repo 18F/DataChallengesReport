@@ -1,130 +1,92 @@
-## ![image alt text](image_0.png =100x100) 
+<img src="image_0.png" width="100">
 
-## Data challenges across government
+# Data challenges across government
 
 ### In spring of 2016, 18F interviewed 31 agency leaders and data professionals across 20 different agencies, and asked them what their biggest pain points were concerning using data to further their agency’s mission. Despite the wide breadth of uses data serves across those agencies, we found astounding agreement in what the biggest challenge is: **18 of the 20 agencies we spoke with cited data sharing as a primary barrier to using data to further their mission**. Specific reasons for data sharing pain is policy or culture (11 agencies), the technical mechanics of sharing data (8 agencies), and data discovery (6 agencies). Other common pain points we found include data integrity (9 agencies), lack of staff or specific skills (8 agencies), and IT policy (5 agencies).
 
-*18F would like to thank participants for their thoughts and time. For questions, concerns, or further discussion, please reach out to **[anthony.garvan@gsa.go*v](mailto:anthony.garvan@gsa.gov)*. *
+*18F would like to thank participants for their thoughts and time. For questions, concerns, or further discussion, please reach out to **[anthony.garvan@gsa.gov](mailto:anthony.garvan@gsa.gov)**
 
-# Method
+## Method
 
 We heard from **31** individuals in **22** separate interviews with **20 **different agencies. Most interviews were 45 minutes, a handful were 30 minutes, and one response was sent via email.
 
 We asked our interviewees the questions below, in this order, and  focused on digging into the first two questions. 
 
 1. What are the biggest pain points for your organization concerning data? 
-
 2. What are your "data dreams," or things that you hope to do with your data someday that you cannot achieve today?
-
 3. What gaps do you have in your capabilities to work with data effectively?
-
 4. Would you be willing to work through IAAs with TTS to get those needs met? What factors would make an IAA a viable solution (cost, duration, etc.)?
-
 5. Who else in your agency would be good for us to talk to for the purposes of this research?
-
 6. Do you know anyone who has a strong need for data work, such as reporting, visualization, analysis, or storage, or consulting, and if so could you give us their contact info?
-
 7. Do you have data that is of value to the public, or you’d want to be open, that you need help making available? If so, what are the blockers to doing so? For example, Do you have any scalability challenges with data hosting, e.g. large volumes of data or high demand internally or externally?
-
 8. Is there data from other sources that would be helpful to integrate with your agency data, in order to help fulfill your agency mission?
-
 9. Do you have sufficient dedicated data analysts, statisticians, or data scientists on staff/contractors? (Not DBAs or excel-level analysts) Would those roles be helpful at your agency? 
-
 10. Is there an understanding of the value of open data in your agency’s culture?
-
 11. What are your thoughts on building vs. buying data solutions?
-
 12. Budget for data? Have things you’ve wanted to pursue in data been cost prohibitive in the past? If so, could you tell us what they were?
-
 13. Are you aware of data.gov? Digital Analytics Platform? Api.data.gov?
-
 14. What core agency activities would "additional data" (visualization/processing/statistics) make more effective?
 
 We always had one researcher focus on discussion and  the other on note taking. We took over 65 pages of notes. We’re keeping those notes private out of respect for our participants. 
 
 We spoke with:
 
-Consumer Financial Protection Bureau
-
-Department of Defense
-
-Department of Justice
-
-Department of Labor
-
-Department of State
-
-Department of Transportation
-
-Department of Treasury
-
-Environmental Protection Agency
-
-Federal Communications Commission
-
-Federal Election Commission
-
-Federal Emergency Management Agency
-
-General Services Administration
-
-Internal Revenue Service
+- Consumer Financial Protection Bureau
+- Department of Defense
+- Department of Justice
+- Department of Labor
+- Department of State
+- Department of Transportation
+- Department of Treasury
+- Environmental Protection Agency
+- Federal Communications Commission
+- Federal Election Commission
+- Federal Emergency Management Agency
+- General Services Administration
+- Internal Revenue Service
 
 Millennium Corporate Challenge
-
-U.S. Agency for International Development
-
-U.S. Air Force
-
-U.S. Department of Agriculture
-
-U.S. Patent and Trademark Office
-
-United States Postal Service Office of Inspector General
-
-White House Office of Science and Technology Policy
+- U.S. Agency for International Development
+- U.S. Air Force
+- U.S. Department of Agriculture
+- U.S. Patent and Trademark Office
+- United States Postal Service Office of Inspector General
+- White House Office of Science and Technology Policy
 
 Our participants fell into three broad job categories.
 
-**Role						#**
+|           Role                |  # Participants    | 
+| ------------------------------|:------------------:|  
+| CIO / CTO / CDO               |         11         |
+| Manager / Advisor / Director  |         10         |		
+| Analyst / Developer           |         10         |
 
-CIO / CTO / CDO….………..……………..11
-
-Manager / Advisor / Director…..………....10		
-
-Analyst / Developer..……....….…………..10
-
-Results
+## Results
 
 Here are the number agencies that reported these challenges.
 
-**Challenge reported	   # Agencies reported**
-
-Data sharing…………...…….18
-
-Data integrity……………........9
-
-Staff / skills…………………....8
-
-IT policy……………...………..5
+|  Challenge reported   | # Agencies reported |
+| ----------------------|:-------------------:|
+| Data sharing          |         18          |
+| Data integrity        |         9           |
+| Staff / skills        |         8           |
+| IT policy             |         5           |
 
 Data sharing is a major challenge. Here are specific parts of the data sharing problem that various agencies reported.
 
-**Data sharing challenge      # Agencies reported**
+| Data sharing challenge  | # Agencies reported |
+| ------------------------|:-------------------:|
+| Policy / culture        |         11          |
+| Technical               |         8           |
+| Discovery / inventory   |         6           |
 
-Policy / culture..…………….11
 
-Technical..…………….……...8
-
-Discovery / inventory………..6
-
-Discussion
-
+## Discussion
 Data is used for a tremendous variety of purposes for the agencies we spoke with — from promoting transparency in elections, to tracking over a trillion dollars in spending, to modelling changes in mortgage prices, to fighting ISIS. Given the variety of datasets the government generates and uses, you might expect a wide variety of problems. It was surprising to us that such a clear pattern emerged from our research: data sharing is very consistently cited as a leading source of frustration among data professionals across nearly all the agencies and roles we spoke with. The problem is specific to data that is neither public nor classified. There are clear policies around classified data (which is far rarer anyway), and public data publishing and discovery is handled by data.gov, which is a widely known and widely used solution, and a variety of agency data portals. 
 
 Participants cited difficulty in sharing data due to policy or culture, due to technical reasons, and because it was difficult to discover what data exists. 
 
-From the policy perspective: although in some cases data is restricted by statutory law (tax data, for example), in most cases the participants had full legal rights to the data, but still couldn’t access it because data owners cite nebulous or restrictive policies to refuse access. Government is risk-averse, and if there is not a clear policy stating that you *can and should *share a particular type of data with a particular group, data owners default to not sharing. Sometimes the policy *is *clear, but the process of getting approvals is too cumbersome. In other cases, more detailed policy is required to provide clarity around protocols that streamline sharing: for example, when and how to broadcast changes in data formats, or how to describe data sets effectively.
+From the policy perspective: although in some cases data is restricted by statutory law (tax data, for example), in most cases the participants had full legal rights to the data, but still couldn’t access it because data owners cite nebulous or restrictive policies to refuse access. Government is risk-averse, and if there is not a clear policy stating that you *can and should *share a particular type of data with a particular group, data owners default to not sharing. Sometimes the policy *is * clear, but the process of getting approvals is too cumbersome. In other cases, more detailed policy is required to provide clarity around protocols that streamline sharing: for example, when and how to broadcast changes in data formats, or how to describe data sets effectively.
 
 Closely related to data policy is the lack of a data-sharing culture. A lot of data is not restricted by law, or even by policy, but data owners refuse to share, or drag their feet, because incentives just don’t encourage them to share. Besides sometimes taking work to clean up and prepare, giving up the data is a forfeiture of some level of control the individual has, and may expose them or their departments to risk if the data is erroneous, or the data itself may be used against them by comparing it with that of other departments. These disincentives to share are strong, and may even outweigh formal policy in some cases. We heard from one participant who claimed that getting the data they need to do their job was "like pulling teeth" but that clearer policy was unlikely to help. Another cited sharing as a primary challenge, but estimated the problem was “only 10% technical,” since winning over the hearts and minds of the data owners could quickly change the technical landscape. For data owners to start finding reasons to share, rather than reasons to not to, they’ll need to see the benefits of sharing data outweigh their personal effort and risk*.*
 
@@ -142,9 +104,9 @@ Draconian IT policies came up several times in our interviews as well. At many a
 
 Despite these pain points, participants expressed a lot of hope for the future and enthusiasm to using data to further their agency’s mission. When asked about their dreams, several participants were already actively engaged in contracts or internal work to make their dreams come true, and several had already undergone major transformations to streamline their data systems and reported a well-deserved pride in the results.
 
-Conclusion
+## Conclusion
 
 Our research has revealed clear themes in the data challenges individuals face across government: data sharing being the primary challenge, followed by data integrity, staffing, and IT policy. 
 
-This is an ongoing effort. For thoughts, questions, and concerns, please reach out to [anthony.garvan@gsa.gov](mailto:anthony.garvan@gsa.gov). 
+For thoughts, questions, and concerns, please reach out to [anthony.garvan@gsa.gov](mailto:anthony.garvan@gsa.gov). 
 
